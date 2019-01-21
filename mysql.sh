@@ -1,0 +1,1 @@
+mysql --default-character-set=utf8 -uroot -p123
